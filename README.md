@@ -18,7 +18,7 @@ color: Colores.rojo,
 English | Español       
 --- | --- |                 
 ```Colors.```| ```Colores.``` 
---- | --- | 
+ | | 
 red | rojo | 
 pink | 301 | 
 purple | 301 | 
