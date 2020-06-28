@@ -9,7 +9,6 @@ ALL colors have been translated
 ## Chart
 
 Attempt | #1 | #2 
-
 --- | --- | --- | --- |--- |--- |--- |--- |--- |
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 |123
 
