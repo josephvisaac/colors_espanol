@@ -8,9 +8,9 @@ ALL colors have been translated
 
 ## Chart
 
-Attempt | #1 | #2 
---- | --- | --- | 
-Seconds | 301 | 283 |
+Attempt | #1 
+--- | --- | 
+Seconds | 301 | 
 
 
 
