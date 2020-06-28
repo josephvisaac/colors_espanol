@@ -8,8 +8,37 @@ ALL colors have been translated
 
 ## Chart
 
-Attempt | #1 
+Colors. | Colores. 
 --- | --- | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
+Seconds | 301 | 
 Seconds | 301 | 
 
 
