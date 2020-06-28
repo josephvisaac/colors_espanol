@@ -14,7 +14,7 @@ ej: ```Colors.red = Colores.rojo```
 color: Colores.rojo,
 ```
 
-## Chart
+##                               Chart
 English | Español       
 --- | --- |                 
 ```Colors.```| ```Colores.``` 
