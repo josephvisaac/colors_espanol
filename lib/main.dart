@@ -9,84 +9,67 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-          child: Container(
-        height: 50,
-        width: 350,
-        // color: Colors.yellowAccent,
-        color: Colores.amarillo,
+      debugShowCheckedModeBanner: false,
+      // color: Colores.amarillo,
+      theme: ThemeData(
+        primaryColor: Colores.amarillo, //yellow
+      ),
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Titulo'),
+        ),
+        body: Container(
+          height: 50,
+          width: 350,
+          // color: Colors.,
+          color: Colores.verdeAzulado, //teal
+        ),
       ),
     );
   }
 }
 
-    // // The grey swatch is intentionally omitted because when picking a color
-    // // randomly from this list to colorize an application, picking grey suddenly
-    // // makes the app look disabled.
-    // blueGrey,
+// // The grey swatch is intentionally omitted because when picking a color
+// // randomly from this list to colorize an application, picking grey suddenly
+// // makes the app look disabled.
+// blueGrey,
 
+//   rojo,
+//   rosado,
+//   morado,
+//   moradoProfundo,
+//   indigo,
+//   azul,
+//   claroAzul,
+//   cian,
+//   verdeAzulado,
+//   verde,
+//   claroVerde,
+//   lima,
+//   amarillo,
+//   ambar,
+//   naranja,
+//   naranjaProfundo,
+//   marron,
+//   // The grey swatch is intentionally omitted because when picking a color
+//   // randomly from this list to colorize an application, picking grey suddenly
+//   // makes the app look disabled.
+//   azulGris,
+// ];
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  //   rojo,
-  //   rosado,
-  //   morado,
-  //   moradoProfundo,
-  //   indigo,
-  //   azul,
-  //   claroAzul,
-  //   cian,
-  //   verdeAzulado,
-  //   verde,
-  //   claroVerde,
-  //   lima,
-  //   amarillo,
-  //   ambar,
-  //   naranja,
-  //   naranjaProfundo,
-  //   marron,
-  //   // The grey swatch is intentionally omitted because when picking a color
-  //   // randomly from this list to colorize an application, picking grey suddenly
-  //   // makes the app look disabled.
-  //   azulGris,
-  // ];
-
-
-
-
-      // redAccent,  // rojoAcento
-    // pinkAccent,  // rosadoAcento,
-    // purpleAccent, / moradoAcento,
-    // deepPurpleAccent, moradoProfundoAcento,
-    // indigoAccent, indigoAcento,
-    // blueAccent, azulAcento,
-    // lightBlueAccent, claroAzulAcento
-    // cyanAccent, cianAcento,
-    // tealAccent, verdeAzuladoAcento,
-    // greenAccent, verdeAcento,
-    // lightGreenAccent, claroVerdeAcento,
-    // limeAccent, limaAcento,
-    // yellowAccent, amarilloAcento,
-    // amberAccent, ambarAcento,
-    // orangeAccent, naranjaAcento,
-    // deepOrangeAccent, naranjaProfundoAcento,
-
-     
-
-   
+// redAccent,  // rojoAcento
+// pinkAccent,  // rosadoAcento,
+// purpleAccent, / moradoAcento,
+// deepPurpleAccent, moradoProfundoAcento,
+// indigoAccent, indigoAcento,
+// blueAccent, azulAcento,
+// lightBlueAccent, claroAzulAcento
+// cyanAccent, cianAcento,
+// tealAccent, verdeAzuladoAcento,
+// greenAccent, verdeAcento,
+// lightGreenAccent, claroVerdeAcento,
+// limeAccent, limaAcento,
+// yellowAccent, amarilloAcento,
+// amberAccent, ambarAcento,
+// orangeAccent, naranjaAcento,
+// deepOrangeAccent, naranjaProfundoAcento,
