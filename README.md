@@ -10,7 +10,7 @@ ALL colors have been translated
 
 Attempt | #1 | #2 
 --- | --- | --- | 
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 |123
+Seconds | 301 | 283 |
 
 
 
