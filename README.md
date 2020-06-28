@@ -15,8 +15,8 @@ color: Colores.rojo,
 ```
 
 ## Chart
-English | Español        |        English | Español
---- | --- |                       --- | --- | 
+English | Español        |    |    English | Español
+--- | --- |              --- |    --- | --- | 
 ```Colors.```| ```Colores.``` 
 --- | --- | 
 red | rojo | 
