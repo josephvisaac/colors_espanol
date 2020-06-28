@@ -16,23 +16,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-    // red, 
-    // pink,
-    // purple,
-    // deepPurple,
-    // indigo,
-    // blue,
-    // lightBlue,
-    // cyan,
-    // teal,
-    // green,
-    // lightGreen,
-    // lime,
-    // yellow,
-    // amber,
-    // orange,
-    // deepOrange,
-    // brown,
+
     // // The grey swatch is intentionally omitted because when picking a color
     // // randomly from this list to colorize an application, picking grey suddenly
     // // makes the app look disabled.
