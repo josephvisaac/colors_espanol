@@ -16,13 +16,24 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Titulo'),
+          centerTitle: true,
+          title: Text('Amarillo'),
         ),
-        body: Container(
-          height: 50,
-          width: 350,
+        body: Center(
+     
           // color: Colors.,
-          color: Colores.verdeAzulado, //teal
+          child: Container(
+          padding: EdgeInsets.only(top:40),
+          height: 100,
+          width: 100,
+            // color: Colores.lima,
+            // color: Colores.azulAcento,
+            // color: Colores.amarillo,
+            // color: Colores.negro,
+            // color: Colores.gris,
+            color: Colores.rojo,
+          ),
+           
         ),
       ),
     );

@@ -36,15 +36,16 @@ orange | naranja |
 deepOrange| naranjaProfundo | sdsdsdsdsdsdds
 brown | marron | 
 black | negro | 
+grey | gris | 
 transparent | transparente | 
 redAccent | rojoAcento |
-pinkAccent | rosadoAcento|
- purpleAccent|  moradoAcento|
- deepPurpleAccent| moradoProfundoAcento|
- indigoAccent| indigoAcento|
- blueAccent| azulAcento|
+pinkAccent | rosadoAcento |
+ purpleAccent|  moradoAcento |
+ deepPurpleAccent| moradoProfundoAcento |
+ indigoAccent| indigoAcento |
+ blueAccent| azulAcento |
  lightBlueAccent| claroAzulAcento
- cyanAccent| cianAcento|
+ cyanAccent| cianAcento |
  tealAccent| verdeAzuladoAcento|
  greenAccent| verdeAcento|
  lightGreenAccent| claroVerdeAcento|
