@@ -3,7 +3,11 @@
 Thsi package translates Colors and its methods into spanish.
 ex: Colors.red = Colores.rojo
 ALL colors have been translated
+## Example/Ejemplo:
 
+```dart 
+color: Colores.rojo,
+```
 
 ## Chart
 English | Español 
