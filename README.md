@@ -8,7 +8,7 @@ ALL colors have been translated
 ## Chart
 English | Español 
 --- | --- | 
-```dart Colors.```| ```dart Colores.``` 
+```Colors.```| ```Colores.``` 
 --- | --- | 
 red | rojo | 
 pink | 301 | 
