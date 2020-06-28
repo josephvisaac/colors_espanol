@@ -104,5 +104,5 @@ class MyApp extends StatelessWidget {
 ```
 ## Foto del Ejemplo/Example Pic
 
-![Image of Code](assets\images\examplePic.png)
+![Image of Code](https://github.com/josephvisaac/colors_espanol/blob/master/assets/images/examplePic.png)
 
