@@ -34,42 +34,4 @@ class MyApp extends StatelessWidget {
 // // makes the app look disabled.
 // blueGrey,
 
-//   rojo,
-//   rosado,
-//   morado,
-//   moradoProfundo,
-//   indigo,
-//   azul,
-//   claroAzul,
-//   cian,
-//   verdeAzulado,
-//   verde,
-//   claroVerde,
-//   lima,
-//   amarillo,
-//   ambar,
-//   naranja,
-//   naranjaProfundo,
-//   marron,
-//   // The grey swatch is intentionally omitted because when picking a color
-//   // randomly from this list to colorize an application, picking grey suddenly
-//   // makes the app look disabled.
-//   azulGris,
-// ];
 
-// redAccent,  // rojoAcento
-// pinkAccent,  // rosadoAcento,
-// purpleAccent, / moradoAcento,
-// deepPurpleAccent, moradoProfundoAcento,
-// indigoAccent, indigoAcento,
-// blueAccent, azulAcento,
-// lightBlueAccent, claroAzulAcento
-// cyanAccent, cianAcento,
-// tealAccent, verdeAzuladoAcento,
-// greenAccent, verdeAcento,
-// lightGreenAccent, claroVerdeAcento,
-// limeAccent, limaAcento,
-// yellowAccent, amarilloAcento,
-// amberAccent, ambarAcento,
-// orangeAccent, naranjaAcento,
-// deepOrangeAccent, naranjaProfundoAcento,
