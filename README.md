@@ -57,4 +57,52 @@ pinkAccent | rosadoAcento |
 
 <!-- - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab) -->
 
+## Ejemplo de Codigo/ Code Example
+
+```dart 
+import 'package:colors_espanol/colores.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      // color: Colores.amarillo,
+      theme: ThemeData(
+        primaryColor: Colores.amarillo, //yellow
+      ),
+      home: Scaffold(
+        appBar: AppBar(
+          centerTitle: true,
+          title: Text('Amarillo'),
+        ),
+        body: Center(
+     
+          // color: Colors.,
+          child: Container(
+          padding: EdgeInsets.only(top:40),
+          height: 100,
+          width: 100,
+            // color: Colores.lima,
+            // color: Colores.azulAcento,
+            // color: Colores.amarillo,
+            // color: Colores.negro,
+            // color: Colores.gris,
+            color: Colores.rojo,
+          ),
+           
+        ),
+      ),
+    );
+  }
+}
+```
+## Foto del Ejemplo/Example Pic
+
+![Image of Code](assets\images\examplePic.png)
 
