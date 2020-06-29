@@ -1,5 +1,5 @@
 name: colors_espanol
-description: This Flutter project turns Colors.red and all other colors into spanish. Instead of Colors.red, you'd use Colores.rojo, Colores.azul, Colores.verde, Colors.etc. Every color has been translated, and this includes the shades like black##. It works identically do Colors except it isn't available for the ThemeData sadly, but it works for any other Widget that isn't directly affecting the Material App theme. It works on Containers of all shapes and types. Use it like a regular Colors widget. Este paquete funciona identicamente a Colors. Usenlo como usan Colors. Todos los colores han sido traducidos. Green es verde, orange es naranja, pink es rosado, marron es brown, etcetera. Disfruten:)     
+description: This Flutter project turns Colors.red and all other colors into spanish. Traduce Colors y todos sus metodos a espanol.     
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.

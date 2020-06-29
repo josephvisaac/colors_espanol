@@ -1,7 +1,7 @@
 library colores;
+
 import 'dart:ui' show Color;
 import 'package:flutter/painting.dart';
-
 
 /// Español: Define un color y un color "swatch" que puedes personalizar en 10 diferentes tonos.
 /// Para usar los tonos del color escogido, use el formato de indice, ejemplo: "[0]". Los numeros mayores
@@ -88,10 +88,10 @@ class MaterialAccentColor extends ColorSwatch<int> {
 /// En vez de usar un color absoluto, considere usar [Theme.of] para obtener la estructura local [Themedata],
 /// porque [Themedata] revela los colores escogidos para el tema actual de la aplicacion,
 /// por ejemplo [Themedata.primaryColor] y [ThemeData.accentColor] (ademas de otros).
-/// 
-/// La mayoria de paletas de color(swatches) tienen colores de 100 a 900 en 
-/// incrementos de  100, mas el color 50. Los numeros menores son mas palidos 
-/// mientras que los mayores se vuelven mas y mas oscuros. Los acentos de las 
+///
+/// La mayoria de paletas de color(swatches) tienen colores de 100 a 900 en
+/// incrementos de  100, mas el color 50. Los numeros menores son mas palidos
+/// mientras que los mayores se vuelven mas y mas oscuros. Los acentos de las
 /// paletas( ejemplo: [rojoAcento]) solo tienen los valores  100, 200, 400, y 700.
 ///
 /// In addition, a series of blacks and whites with common opacities are
@@ -99,7 +99,7 @@ class MaterialAccentColor extends ColorSwatch<int> {
 ///
 /// {@tool snippet}
 ///
-/// Para seleccionar un color especifico de una de las paletas(swatches), usa el formato 
+/// Para seleccionar un color especifico de una de las paletas(swatches), usa el formato
 /// de indice "[]". Ejemplo:
 /// ```dart
 /// Color selection = Colors.green[400]; // Selects a mid-range green.
@@ -220,7 +220,7 @@ class Colores {
 
   /// negro 54% opaco.
   ///
-  /// Este color se usa comunmente para titulos(no la propiedad "titulo", sino los headers, o" encabezados") de tema 
+  /// Este color se usa comunmente para titulos(no la propiedad "titulo", sino los headers, o" encabezados") de tema
   /// claro(light theme). Tambien se usa como color de fondo(background) de dialogos.
   ///
   /// ![](https://flutter.github.io/assets-for-api-docs/assets/material/Colors.blacks.png)
@@ -246,7 +246,7 @@ class Colores {
 
   /// negro 38% opaco.
   ///
-  /// Para temas claros (light themes), o sea, cuando el [ThemeData.brightness] 
+  /// Para temas claros (light themes), o sea, cuando el [ThemeData.brightness]
   /// sea [Brightness.light], este color se usa para iconos deshabilitados(como false o null)
   /// y para texto de marcador de posición (placeholder text) en [DataTable].
   /// ![](https://flutter.github.io/assets-for-api-docs/assets/material/Colors.blacks.png)
