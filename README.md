@@ -110,5 +110,5 @@ class MyApp extends StatelessWidget {
 
 
 ## note/nota
-##### Enjoy! !Difruten!
+##### Enjoy! !Disfruten!
 ###### josephvisaac@gmail.com
