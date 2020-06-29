@@ -8,6 +8,9 @@ ALL colors have been translated.
 Este paquete traduce Colors y sus metodos a español.
 ej: ```Colors.red = Colores.rojo```.
 
+##### Author/Autor
+###### josephvisaac@gmail.com
+
 ## Specific Example/Ejemplo Especifico:
 
 ```dart 
