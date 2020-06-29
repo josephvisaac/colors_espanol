@@ -5,3 +5,7 @@
 ### [1.0.0+2] - 6 June, 2020
 
 - Package update shortening description to evade a warning.
+
+### [1.0.0+3] - 6 June, 2020
+
+- Package editing chart error on flutter page, but not github for some reason.
