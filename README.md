@@ -2,11 +2,11 @@
 
 This package translates ```Colors``` and its methods to Spanish.
 ex: ```Colors.red = Colores.rojo```
-ALL colors have been translated
+ALL colors have been translated.
 
 
 Este paquete traduce Colors y sus metodos a español.
-ej: ```Colors.red = Colores.rojo```
+ej: ```Colors.red = Colores.rojo```.
 
 ## Specific Example/Ejemplo Especifico:
 
@@ -106,3 +106,7 @@ class MyApp extends StatelessWidget {
 
 ![Image of Code](https://github.com/josephvisaac/colors_espanol/blob/master/assets/images/examplePic.png)
 
+
+## note/nota
+##### Enjoy! !Difruten!
+###### josephvisaac@gmail.com
