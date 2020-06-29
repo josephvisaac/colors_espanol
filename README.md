@@ -19,7 +19,7 @@ color: Colores.rojo,
 ##                               Chart
 English | Español       
 --- | --- |                 
-```Colors.```| ```Colores.``` 
+```Colors.```| ```Colores.```| 
 red | rojo | 
 pink | rosado | 
 purple | morado | 
