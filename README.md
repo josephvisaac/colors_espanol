@@ -67,31 +67,31 @@ pinkAccent | rosadoAcento
 
  purpleAccent|  moradoAcento 
 
- deepPurpleAccent| moradoProfundoAcento 
+ deepPurpleAccent | moradoProfundoAcento 
 
- indigoAccent| indigoAcento 
+ indigoAccent | indigoAcento 
 
- blueAccent| azulAcento 
+ blueAccent | azulAcento 
 
  lightBlueAccent| claroAzulAcento
 
- cyanAccent| cianAcento 
+ cyanAccent | cianAcento 
 
- tealAccent| verdeAzuladoAcento
+ tealAccent | verdeAzuladoAcento
 
- greenAccent| verdeAcento
+ greenAccent | verdeAcento
 
- lightGreenAccent| claroVerdeAcento
+ lightGreenAccent | claroVerdeAcento
 
- limeAccent| limaAcento
+ limeAccent | limaAcento
 
- yellowAccent| amarilloAcento
+ yellowAccent | amarilloAcento
 
- amberAccent| ambarAcento
+ amberAccent | ambarAcento
 
- orangeAccent| naranjaAcento
- 
- deepOrangeAccent| naranjaProfundoAcento
+ orangeAccent | naranjaAcento
+
+ deepOrangeAccent | naranjaProfundoAcento
 
 <!-- - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab) -->
 
